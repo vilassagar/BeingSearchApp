@@ -1,0 +1,422 @@
+[
+  {
+    "Id": 1,
+    "Name": "City Pharmacy",
+    "Type": "Pharmacy",
+    "Address": "123 Main St",
+    "AvailableTimeSlots": [
+      {
+        "DayOfWeek": 1,
+        "OpenTime": "09:00:00",
+        "CloseTime": "18:00:00"
+      },
+      {
+        "DayOfWeek": 2,
+        "OpenTime": "09:00:00",
+        "CloseTime": "18:00:00"
+      },
+      {
+        "DayOfWeek": 3,
+        "OpenTime": "09:00:00",
+        "CloseTime": "18:00:00"
+      },
+      {
+        "DayOfWeek": 4,
+        "OpenTime": "09:00:00",
+        "CloseTime": "18:00:00"
+      },
+      {
+        "DayOfWeek": 5,
+        "OpenTime": "06:00:00",
+        "CloseTime": "18:00:00"
+      },
+      {
+        "DayOfWeek": 6,
+        "OpenTime": "09:00:00",
+        "CloseTime": "18:00:00"
+      },
+      {
+        "DayOfWeek": 0,
+        "OpenTime": "09:00:00",
+        "CloseTime": "18:00:00"
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Name": "Fresh Bakery",
+    "Type": "Bakery",
+    "Address": "456 Oak Ave",
+    "AvailableTimeSlots": [
+      {
+        "DayOfWeek": 1,
+        "OpenTime": "06:00:00",
+        "CloseTime": "18:00:00"
+      },
+      {
+        "DayOfWeek": 2,
+        "OpenTime": "06:00:00",
+        "CloseTime": "18:00:00"
+      },
+      {
+        "DayOfWeek": 3,
+        "OpenTime": "06:00:00",
+        "CloseTime": "18:00:00"
+      },
+      {
+        "DayOfWeek": 4,
+        "OpenTime": "06:00:00",
+        "CloseTime": "18:00:00"
+      },
+      {
+        "DayOfWeek": 5,
+        "OpenTime": "06:00:00",
+        "CloseTime": "18:00:00"
+      },
+      {
+        "DayOfWeek": 6,
+        "OpenTime": "07:00:00",
+        "CloseTime": "14:00:00"
+      },
+      {
+        "DayOfWeek": 0,
+        "OpenTime": "08:00:00",
+        "CloseTime": "12:00:00"
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Name": "Style Cuts",
+    "Type": "Barber Shop",
+    "Address": "789 Elm St",
+    "AvailableTimeSlots": [
+      {
+        "DayOfWeek": 1,
+        "OpenTime": "11:00:00",
+        "CloseTime": "20:00:00"
+      },
+      {
+        "DayOfWeek": 2,
+        "OpenTime": "11:00:00",
+        "CloseTime": "20:00:00"
+      },
+      {
+        "DayOfWeek": 3,
+        "OpenTime": "11:00:00",
+        "CloseTime": "20:00:00"
+      },
+      {
+        "DayOfWeek": 4,
+        "OpenTime": "11:00:00",
+        "CloseTime": "20:00:00"
+      },
+      {
+        "DayOfWeek": 5,
+        "OpenTime": "10:00:00",
+        "CloseTime": "22:00:00"
+      },
+      {
+        "DayOfWeek": 6,
+        "OpenTime": "10:00:00",
+        "CloseTime": "22:00:00"
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "Name": "Mega Mart",
+    "Type": "Supermarket",
+    "Address": "101 Broadway",
+    "AvailableTimeSlots": [
+      {
+        "DayOfWeek": 1,
+        "OpenTime": "08:00:00",
+        "CloseTime": "22:00:00"
+      },
+      {
+        "DayOfWeek": 2,
+        "OpenTime": "08:00:00",
+        "CloseTime": "22:00:00"
+      },
+      {
+        "DayOfWeek": 3,
+        "OpenTime": "08:00:00",
+        "CloseTime": "22:00:00"
+      },
+      {
+        "DayOfWeek": 4,
+        "OpenTime": "08:00:00",
+        "CloseTime": "22:00:00"
+      },
+      {
+        "DayOfWeek": 5,
+        "OpenTime": "08:00:00",
+        "CloseTime": "23:00:00"
+      },
+      {
+        "DayOfWeek": 6,
+        "OpenTime": "08:00:00",
+        "CloseTime": "23:00:00"
+      },
+      {
+        "DayOfWeek": 0,
+        "OpenTime": "09:00:00",
+        "CloseTime": "21:00:00"
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "Name": "Sweet Tooth",
+    "Type": "Candy Store",
+    "Address": "202 Cherry Lane",
+    "AvailableTimeSlots": [
+      {
+        "DayOfWeek": 1,
+        "OpenTime": "12:00:00",
+        "CloseTime": "20:00:00"
+      },
+      {
+        "DayOfWeek": 2,
+        "OpenTime": "12:00:00",
+        "CloseTime": "20:00:00"
+      },
+      {
+        "DayOfWeek": 3,
+        "OpenTime": "12:00:00",
+        "CloseTime": "20:00:00"
+      },
+      {
+        "DayOfWeek": 4,
+        "OpenTime": "12:00:00",
+        "CloseTime": "20:00:00"
+      },
+      {
+        "DayOfWeek": 5,
+        "OpenTime": "12:00:00",
+        "CloseTime": "22:00:00"
+      },
+      {
+        "DayOfWeek": 6,
+        "OpenTime": "10:00:00",
+        "CloseTime": "22:00:00"
+      },
+      {
+        "DayOfWeek": 0,
+        "OpenTime": "12:00:00",
+        "CloseTime": "18:00:00"
+      }
+    ]
+  },
+  {
+    "Id": 6,
+    "Name": "Cinemax",
+    "Type": "Cinema Complex",
+    "Address": "303 Movie Blvd",
+    "AvailableTimeSlots": [
+      {
+        "DayOfWeek": 1,
+        "OpenTime": "12:30:00",
+        "CloseTime": "23:00:00"
+      },
+      {
+        "DayOfWeek": 2,
+        "OpenTime": "12:30:00",
+        "CloseTime": "23:00:00"
+      },
+      {
+        "DayOfWeek": 3,
+        "OpenTime": "12:30:00",
+        "CloseTime": "23:00:00"
+      },
+      {
+        "DayOfWeek": 4,
+        "OpenTime": "12:30:00",
+        "CloseTime": "23:00:00"
+      },
+      {
+        "DayOfWeek": 5,
+        "OpenTime": "12:00:00",
+        "CloseTime": "01:00:00"
+      },
+      {
+        "DayOfWeek": 6,
+        "OpenTime": "11:00:00",
+        "CloseTime": "01:00:00"
+      },
+      {
+        "DayOfWeek": 0,
+        "OpenTime": "11:00:00",
+        "CloseTime": "23:00:00"
+      }
+    ]
+  },
+  {
+    "Id": 7,
+    "Name": "Downtown Library",
+    "Type": "Library",
+    "Address": "404 Book St",
+    "AvailableTimeSlots": [
+      {
+        "DayOfWeek": 1,
+        "OpenTime": "09:00:00",
+        "CloseTime": "17:00:00"
+      },
+      {
+        "DayOfWeek": 2,
+        "OpenTime": "09:00:00",
+        "CloseTime": "17:00:00"
+      },
+      {
+        "DayOfWeek": 3,
+        "OpenTime": "09:00:00",
+        "CloseTime": "17:00:00"
+      },
+      {
+        "DayOfWeek": 4,
+        "OpenTime": "09:00:00",
+        "CloseTime": "17:00:00"
+      },
+      {
+        "DayOfWeek": 5,
+        "OpenTime": "09:00:00",
+        "CloseTime": "17:00:00"
+      },
+      {
+        "DayOfWeek": 6,
+        "OpenTime": "10:00:00",
+        "CloseTime": "14:00:00"
+      }
+    ]
+  },
+  {
+    "Id": 8,
+    "Name": "Central Park Cafe",
+    "Type": "Cafe",
+    "Address": "505 Park Ave",
+    "AvailableTimeSlots": [
+      {
+        "DayOfWeek": 1,
+        "OpenTime": "07:00:00",
+        "CloseTime": "17:00:00"
+      },
+      {
+        "DayOfWeek": 2,
+        "OpenTime": "07:00:00",
+        "CloseTime": "17:00:00"
+      },
+      {
+        "DayOfWeek": 3,
+        "OpenTime": "07:00:00",
+        "CloseTime": "17:00:00"
+      },
+      {
+        "DayOfWeek": 4,
+        "OpenTime": "07:00:00",
+        "CloseTime": "17:00:00"
+      },
+      {
+        "DayOfWeek": 5,
+        "OpenTime": "07:00:00",
+        "CloseTime": "17:00:00"
+      },
+      {
+        "DayOfWeek": 6,
+        "OpenTime": "08:00:00",
+        "CloseTime": "17:00:00"
+      },
+      {
+        "DayOfWeek": 0,
+        "OpenTime": "09:00:00",
+        "CloseTime": "15:00:00"
+      }
+    ]
+  },
+  {
+    "Id": 9,
+    "Name": "Fitness First",
+    "Type": "Gym",
+    "Address": "606 Muscle Way",
+    "AvailableTimeSlots": [
+      {
+        "DayOfWeek": 1,
+        "OpenTime": "06:00:00",
+        "CloseTime": "23:00:00"
+      },
+      {
+        "DayOfWeek": 2,
+        "OpenTime": "06:00:00",
+        "CloseTime": "23:00:00"
+      },
+      {
+        "DayOfWeek": 3,
+        "OpenTime": "06:00:00",
+        "CloseTime": "23:00:00"
+      },
+      {
+        "DayOfWeek": 4,
+        "OpenTime": "06:00:00",
+        "CloseTime": "23:00:00"
+      },
+      {
+        "DayOfWeek": 5,
+        "OpenTime": "06:00:00",
+        "CloseTime": "23:00:00"
+      },
+      {
+        "DayOfWeek": 6,
+        "OpenTime": "08:00:00",
+        "CloseTime": "20:00:00"
+      },
+      {
+        "DayOfWeek": 0,
+        "OpenTime": "08:00:00",
+        "CloseTime": "20:00:00"
+      }
+    ]
+  },
+  {
+    "Id": 10,
+    "Name": "Golden Spa",
+    "Type": "Spa",
+    "Address": "707 Relaxation Rd",
+    "AvailableTimeSlots": [
+      {
+        "DayOfWeek": 1,
+        "OpenTime": "10:00:00",
+        "CloseTime": "19:00:00"
+      },
+      {
+        "DayOfWeek": 2,
+        "OpenTime": "10:00:00",
+        "CloseTime": "19:00:00"
+      },
+      {
+        "DayOfWeek": 3,
+        "OpenTime": "10:00:00",
+        "CloseTime": "19:00:00"
+      },
+      {
+        "DayOfWeek": 4,
+        "OpenTime": "10:00:00",
+        "CloseTime": "19:00:00"
+      },
+      {
+        "DayOfWeek": 5,
+        "OpenTime": "10:00:00",
+        "CloseTime": "21:00:00"
+      },
+      {
+        "DayOfWeek": 6,
+        "OpenTime": "09:00:00",
+        "CloseTime": "21:00:00"
+      },
+      {
+        "DayOfWeek": 0,
+        "OpenTime": "12:00:00",
+        "CloseTime": "18:00:00"
+      }
+    ]
+  }
+]
