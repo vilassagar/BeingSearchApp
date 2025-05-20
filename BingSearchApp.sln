@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35818.85 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "beingsearchapp.client", "beingsearchapp.client\beingsearchapp.client.esproj", "{D0440469-FE87-3546-3403-9E860CD74C0E}"
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "bingsearchapp.client", "beingsearchapp.client\bingsearchapp.client.esproj", "{D0440469-FE87-3546-3403-9E860CD74C0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeingSearchApp.Server", "BeingSearchApp.Server\BeingSearchApp.Server.csproj", "{D63AFB60-DA83-4EB6-8BF3-E3FA6E19FCB4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BingSearchApp.Server", "BeingSearchApp.Server\BingSearchApp.Server.csproj", "{D63AFB60-DA83-4EB6-8BF3-E3FA6E19FCB4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

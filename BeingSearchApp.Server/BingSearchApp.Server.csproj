@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\beingsearchapp.client\beingsearchapp.client.esproj">
+    <ProjectReference Include="..\beingsearchapp.client\bingsearchapp.client.esproj">
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
   </ItemGroup>

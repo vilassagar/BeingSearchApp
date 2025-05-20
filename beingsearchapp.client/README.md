@@ -22,7 +22,7 @@ A React application that leverages the Bing search API to provide search results
 
 1. Clone the repository:
 ```
-git clone https://github.com/vilassagar/BingSearchAPI.git
+git clone https://github.com/vilassagar/BeingSearchApp.git
 cd BeingSearchApp
 ```
 
